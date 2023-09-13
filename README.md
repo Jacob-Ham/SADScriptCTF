@@ -1,4 +1,4 @@
-# Simple Adversary Defense Script (SAD Script)
+# Simple Adversary Defense Script CTF Version 
 
 Defend your Linux machine from a simple adversary who has taken down defenses and established persistence!
 
